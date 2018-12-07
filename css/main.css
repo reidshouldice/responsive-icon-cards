@@ -31,7 +31,8 @@ ul li {
 }
 
 .card-img {
-  margin: .75em
+  margin: .75em;
+  margin-top: 0
 }
 
 .card-img img {
